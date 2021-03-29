@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6479144146daa7848a0d830617fc71a9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baloo Bhaina 2
+  fontNames:
+  - Baloo Bhaina 2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 802dac14950ab304db756dd30d98f262, type: 3}
+  - {fileID: 12800000, guid: 51936a39f771223438efd5cf8d053248, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
